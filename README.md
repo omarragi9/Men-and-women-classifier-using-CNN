@@ -1,4 +1,4 @@
-# Men-and-women-classifier
+# CNN Men-and-women-classifier
 
 Men and women are different since the very beging of the world , but when it comes to make computer recognize them will it be possible?
 
