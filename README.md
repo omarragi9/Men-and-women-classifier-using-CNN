@@ -27,6 +27,12 @@ Note :
 
 I'm beginner so any improvements even a little ones will be appreciated.
 
+Also better results could be achieved using more complex models but i ran this model on my local pc so i was limited by the pc's resources also i used for loop to read the data as
+
+i did this project long time ago when i wasn't know how to use data generator or any other efficient way to read the data and i didn't want to modify it i only modified the model
+
+itself.
+
 References :
 
 1 -> https://www.quora.com/Which-are-the-best-image-classification-algorithms
